@@ -1,0 +1,10 @@
+Output: PCAD Netlist
+Type  : PCADNetlist
+From  : Project [PCB_Project_FrequencyMeter.PrjPcb]
+   Generated File[ÆµÂÊ¼Æ.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:58:53 On 2019/11/25

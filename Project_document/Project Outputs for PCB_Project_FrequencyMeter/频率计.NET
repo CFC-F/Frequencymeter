@@ -1,0 +1,173 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I RAD-0.3.PRT C1
+        {CN
+        1 GND
+        2 X1
+        }
+      }
+      {I RAD-0.3.PRT C2
+        {CN
+        1 GND
+        2 X2
+        }
+      }
+      {I CAPR5-4X5.PRT C3
+        {CN
+        1 VCC
+        2 RST
+        }
+      }
+      {I DIODE-0.7.PRT D1
+        {CN
+        1 GND
+        2 PD5
+        }
+      }
+      {I DPY_8_4.PRT DPY1
+        {CN
+        1 PB4
+        2 PB3
+        3 PB7
+        4 PB2
+        5 PB6
+        6 DG4
+        7 PB1
+        8 DG3
+        9 DG2
+       10 PB5
+       11 PB0
+       12 DG1
+        }
+      }
+      {I HDR1X3.PRT P1
+        {CN
+        1 VCC
+        2 GND
+        3 NetP1_3
+        }
+      }
+      {I SOT-23B_N.PRT Q1
+        {CN
+        1 DG3
+        2 NetQ1_2
+        3 VCC
+        }
+      }
+      {I SOT-23B_N.PRT Q2
+        {CN
+        1 DG2
+        2 NetQ2_2
+        3 VCC
+        }
+      }
+      {I SOT-23B_N.PRT Q3
+        {CN
+        1 DG1
+        2 NetQ3_2
+        3 VCC
+        }
+      }
+      {I SOT-23B_N.PRT Q4
+        {CN
+        1 DG4
+        2 NetQ4_2
+        3 VCC
+        }
+      }
+      {I VR3.PRT R1
+        {CN
+        1 VCC
+        2 GND
+        3 NetR1_3
+        }
+      }
+      {I AXIAL-0.4.PRT R2
+        {CN
+        1 PD5
+        2 VCC
+        }
+      }
+      {I AXIAL-0.4.PRT R3
+        {CN
+        1 NetR3_1
+        2 NetP1_3
+        }
+      }
+      {I AXIAL-0.4.PRT R4
+        {CN
+        1 RST
+        2 GND
+        }
+      }
+      {I AXIAL-0.4.PRT R5
+        {CN
+        1 NetR5_1
+        2 NetQ4_2
+        }
+      }
+      {I AXIAL-0.4.PRT R6
+        {CN
+        1 NetR6_1
+        2 NetQ1_2
+        }
+      }
+      {I AXIAL-0.4.PRT R7
+        {CN
+        1 NetR7_1
+        2 NetQ2_2
+        }
+      }
+      {I AXIAL-0.4.PRT R8
+        {CN
+        1 NetR8_1
+        2 NetQ3_2
+        }
+      }
+      {I 626-05.PRT U0
+        {CN
+        1 PD5
+        2 NetR1_3
+        3 NetR3_1
+        4 GND
+        5 ?
+        6 ?
+        7 ?
+        8 VCC
+        }
+      }
+      {I DIP20.PRT U?
+        {CN
+        1 RST
+        2 PD0
+        3 PD1
+        4 X2
+        5 X1
+        6 PD2
+        7 PD3
+        8 NetU?_8
+        9 PD5
+       10 GND
+       11 NetU?_11
+       12 PB0
+       13 PB1
+       14 PB2
+       15 PB3
+       16 PB4
+       17 PB5
+       18 PB6
+       19 PB7
+       20 VCC
+        }
+      }
+      {I R38.PRT Y1
+        {CN
+        1 X2
+        2 X1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=D1(DIODE-0.7)
+Added Component: Designator=DPY1(DPY_8_4)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=Q1(SOT-23B_N)
+Added Component: Designator=Q2(SOT-23B_N)
+Added Component: Designator=Q3(SOT-23B_N)
+Added Component: Designator=Q4(SOT-23B_N)
+Added Component: Designator=R1(VR3)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=R4(AXIAL-0.4)
+Added Component: Designator=R5(AXIAL-0.4)
+Added Component: Designator=R6(AXIAL-0.4)
+Added Component: Designator=R7(AXIAL-0.4)
+Added Component: Designator=R8(AXIAL-0.4)
+Added Component: Designator=U0(626-05)
+Added Component: Designator=U2(DIP20)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=X1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=X2 Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=RST Pin=C3-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=PD5 Pin=D1-2
+Added Pin To Net: NetName=PB4 Pin=DPY1-1
+Added Pin To Net: NetName=PB3 Pin=DPY1-2
+Added Pin To Net: NetName=PB7 Pin=DPY1-3
+Added Pin To Net: NetName=PB2 Pin=DPY1-4
+Added Pin To Net: NetName=PB6 Pin=DPY1-5
+Added Pin To Net: NetName=DG4 Pin=DPY1-6
+Added Pin To Net: NetName=PB1 Pin=DPY1-7
+Added Pin To Net: NetName=DG3 Pin=DPY1-8
+Added Pin To Net: NetName=DG2 Pin=DPY1-9
+Added Pin To Net: NetName=PB5 Pin=DPY1-10
+Added Pin To Net: NetName=PB0 Pin=DPY1-11
+Added Pin To Net: NetName=DG1 Pin=DPY1-12
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=DG3 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=DG2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=VCC Pin=Q2-3
+Added Pin To Net: NetName=DG1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=VCC Pin=Q3-3
+Added Pin To Net: NetName=DG4 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=VCC Pin=Q4-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=PD5 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetP1_3 Pin=R3-2
+Added Pin To Net: NetName=RST Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=PD3 Pin=R5-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R5-2
+Added Pin To Net: NetName=PD2 Pin=R6-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R6-2
+Added Pin To Net: NetName=PD1 Pin=R7-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R7-2
+Added Pin To Net: NetName=PD0 Pin=R8-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R8-2
+Added Pin To Net: NetName=PD5 Pin=U0-1
+Added Pin To Net: NetName=NetR1_3 Pin=U0-2
+Added Pin To Net: NetName=NetR3_1 Pin=U0-3
+Added Pin To Net: NetName=GND Pin=U0-4
+Added Pin To Net: NetName=VCC Pin=U0-8
+Added Pin To Net: NetName=RST Pin=U2-1
+Added Pin To Net: NetName=PD0 Pin=U2-2
+Added Pin To Net: NetName=PD1 Pin=U2-3
+Added Pin To Net: NetName=X2 Pin=U2-4
+Added Pin To Net: NetName=X1 Pin=U2-5
+Added Pin To Net: NetName=PD2 Pin=U2-6
+Added Pin To Net: NetName=PD3 Pin=U2-7
+Added Pin To Net: NetName=PD5 Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=PB0 Pin=U2-12
+Added Pin To Net: NetName=PB1 Pin=U2-13
+Added Pin To Net: NetName=PB2 Pin=U2-14
+Added Pin To Net: NetName=PB3 Pin=U2-15
+Added Pin To Net: NetName=PB4 Pin=U2-16
+Added Pin To Net: NetName=PB5 Pin=U2-17
+Added Pin To Net: NetName=PB6 Pin=U2-18
+Added Pin To Net: NetName=PB7 Pin=U2-19
+Added Pin To Net: NetName=VCC Pin=U2-20
+Added Pin To Net: NetName=X2 Pin=Y1-1
+Added Pin To Net: NetName=X1 Pin=Y1-2
+Added Member To Class: ClassName=频率计 Member=Component C1 Cap
+Added Member To Class: ClassName=频率计 Member=Component C2 Cap
+Added Member To Class: ClassName=频率计 Member=Component C3 Cap2
+Added Member To Class: ClassName=频率计 Member=Component D1 1N4730
+Added Member To Class: ClassName=频率计 Member=Component DPY1 DPY_8_4
+Added Member To Class: ClassName=频率计 Member=Component P1 Header 3
+Added Member To Class: ClassName=频率计 Member=Component Q1 9012
+Added Member To Class: ClassName=频率计 Member=Component Q2 9012
+Added Member To Class: ClassName=频率计 Member=Component Q3 9012
+Added Member To Class: ClassName=频率计 Member=Component Q4 9012
+Added Member To Class: ClassName=频率计 Member=Component R1 Res Tap
+Added Member To Class: ClassName=频率计 Member=Component R2 Res2
+Added Member To Class: ClassName=频率计 Member=Component R3 Res2
+Added Member To Class: ClassName=频率计 Member=Component R4 Res2
+Added Member To Class: ClassName=频率计 Member=Component R5 Res2
+Added Member To Class: ClassName=频率计 Member=Component R6 Res2
+Added Member To Class: ClassName=频率计 Member=Component R7 Res2
+Added Member To Class: ClassName=频率计 Member=Component R8 Res2
+Added Member To Class: ClassName=频率计 Member=Component U0 LM393AN
+Added Member To Class: ClassName=频率计 Member=Component U2 AT89C2051
+Added Member To Class: ClassName=频率计 Member=Component Y1 12MHz
+Added Room: Name=频率计
